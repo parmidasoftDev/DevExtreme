@@ -9,7 +9,7 @@
   "devDependencies": {
     "jquery": "3.7.1",
     "@types/jquery": "3.5.29",
-    "@angular/common": "^11.2.14",
+    "@angular/common": "11.2.14",
     "devextreme-main": "*"
   }
 }

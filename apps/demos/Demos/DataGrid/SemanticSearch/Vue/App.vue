@@ -91,7 +91,7 @@ const onEditorPreparing = (e: DxDataGridTypes.EditorPreparingEvent) => {
   }
 };
 </script>
-<style scoped>
+<style>
 .align-bottom.dx-toolbar-item {
   vertical-align: bottom;
 }
